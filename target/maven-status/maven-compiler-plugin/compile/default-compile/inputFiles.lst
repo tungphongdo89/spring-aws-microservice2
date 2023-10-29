@@ -1,2 +1,3 @@
 /Users/m1/Documents/Learn_AWS/Project-demo/spring-aws-microservice2/src/main/java/com/tungphongdo/controller/HealthCheckController.java
 /Users/m1/Documents/Learn_AWS/Project-demo/spring-aws-microservice2/src/main/java/com/tungphongdo/SpringAwsMicroservice2Application.java
+/Users/m1/Documents/Learn_AWS/Project-demo/spring-aws-microservice2/src/main/java/com/tungphongdo/config/AwsSQSConfig.java
