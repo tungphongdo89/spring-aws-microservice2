@@ -1,10 +1,1 @@
-#cloud:
-#  aws:
-#    credentials:
-#      access-key: AKIAS42P7YS4TLUEKOFL
-#      secret-key: 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
-#    region:
-#      static: us-east-1
-#      auto: false
-#    sqs-end-point:
-#      url: https://sqs.us-east-1.amazonaws.com/199346865337/spring-aws-microservices-std-queue
+
