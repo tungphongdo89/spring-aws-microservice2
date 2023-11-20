@@ -10,6 +10,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 public class HealthCheckController {
     @GetMapping
     public ResponseEntity<String> hello(){
-        return ResponseEntity.ok("Hello world");
+        return ResponseEntity.ok("Hello world 2");
     }
 }
