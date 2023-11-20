@@ -105,6 +105,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>spring-aws-microservice2</finalName>
 	</build>
 
 </project>

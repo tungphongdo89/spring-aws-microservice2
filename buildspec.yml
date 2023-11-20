@@ -27,4 +27,4 @@ phases:
 artifacts:
   files:
     - imagedefinitions.json
-    - target/dev-container-spring-aws-microservice2.jar
+    - target/spring-aws-microservice2.jar
